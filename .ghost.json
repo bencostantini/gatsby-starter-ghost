@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://benwiki.herokuapp.com",
+    "contentApiKey": "a424e5451f48fbca01177827d4"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://benwiki.herokuapp.com",
+    "contentApiKey": "a424e5451f48fbca01177827d4"
   }
 }
